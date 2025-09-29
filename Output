@@ -1,0 +1,11 @@
+Rule-Based Chatbot: Type 'bye' to exit
+You: Hi
+Bot: Hello! How can I help you today?
+You: Myself Abijin, Who are you?
+Bot: I am a simple rule-based chatbot created in Python.
+You: Can you help me?
+Bot: Sure! I can answer simple queries like greetings, bot info, or exit.
+You: Then, how are you?
+Bot: I'm just a bot, but I'm doing great! Thanks for asking.
+You: Oh! Nice to talk to you. Bye.
+Bot: Goodbye! Have a nice day.
